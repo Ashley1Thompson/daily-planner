@@ -23,6 +23,6 @@ THEN the saved events persist
 
 ## Screenshots  
 The following shows the app's functionality.  
-![screenshot](./assets/images/screenshop.png)  
+![screenshot](../assets/images/screenshop.png)  
 
 ## Happy Planning!
